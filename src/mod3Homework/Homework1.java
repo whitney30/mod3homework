@@ -4,7 +4,7 @@ package mod3Homework;
 
 public class Homework1 {
 
-ecx
+
 		public static void main(String [] args ) {
 			/*Write an if/else statement for the following requirements:
 			Write an if/else statement for the following requirements:
